@@ -4,7 +4,7 @@
 	"description": "Learning NodeJs",
 	"main": "index.js",
 	"scripts": {
-		"start": "nodemon index.js"
+		"start": "node index.js"
 	},
 	"author": "Gopesh Sharma",
 	"license": "ISC",
