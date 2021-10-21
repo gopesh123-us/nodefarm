@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+}
+
+.btn {
+    background-color: rgb(32, 144, 218);
+    color: #FFF;
+    border: none;
+    padding: 20px;
+    font-size: 18px;
+}
+
+.alt-color {
+    background-color: goldenrod;
+    color: #FFF;
+    border: none;
+    padding: 20px;
+    font-size: 18px;
+}
